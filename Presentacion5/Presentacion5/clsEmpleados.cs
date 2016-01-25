@@ -16,9 +16,54 @@ namespace Presentacion5
         }
 
         //Propiedades oublicas de una clase
-        public string Nombre;
-        public decimal SueldoDiario;
-        public int Edad;
+        //Al poner un dato como privado, ya no es una propiedad, es un campo, por lo que se refactoriza
+        private string _Nombre;
+
+        private decimal _SueldoDiario;
+
+        private int _Edad;
+
+        public string Nombre
+        {
+            get
+            {
+                return _Nombre;
+            }
+
+            set
+            {
+                _Nombre = value;
+            }
+        }
+
+
+        public decimal SueldoDiario { get; set; }//hecho con prop 2tab
+
+       /* public decimal SueldoDiario
+        {
+            get
+            {
+                return _SueldoDiario;
+            }
+
+            set
+            {
+                _SueldoDiario = value;
+            }
+        }*/
+
+        public int Edad
+        {
+            get
+            {
+                return _Edad;
+            }
+
+            set
+            {
+                _Edad = value;
+            }
+        }
 
         //Metodos de la clase
         public decimal CalculaSalario(int NumeroDias)

@@ -15,6 +15,7 @@ namespace Presentacion5
             empleado.Edad = 25;
             empleado.Nombre = "Isidro hernández";
             empleado.SueldoDiario = 12.5m;
+           
             decimal total;
             total = empleado.CalculaSalario(30);
             Console.WriteLine("El nombre del empleado es: " + empleado.Nombre);
