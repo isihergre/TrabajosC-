@@ -16,6 +16,7 @@ namespace presentacion3
             bool bandera = true;
             string cadena ="123348";
             DateTime fecha = DateTime.MinValue;
+            string mod = "Momdificacion en ModProy3";
             //i = (int)x;
             //i = Convert.ToInt32(x);
             i = Convert.ToInt32(cadena);
@@ -25,6 +26,9 @@ namespace presentacion3
             Console.WriteLine("El valor de bandera es: " + bandera.ToString());
             Console.WriteLine("El valor de Cadena es: " + cadena);
             Console.WriteLine("El valor de fecha es: " + fecha.ToShortDateString());
+            Console.WriteLine(mod);
+            //Modificacion hecha en ModProy3
+            Console.WriteLine(i + (int)x);
             Console.ReadKey();
         }
     }
