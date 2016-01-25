@@ -15,11 +15,14 @@ namespace presentacion2
             int i = 0;
             decimal x = 0.0m;
             float f = 0.0f;
+            int k = 20; //Esta es una modificacion para ModProy2
             double d = 0.00d;
             string cadena = "Hola Mundo";
             bool bandera = false;
             DateTime fecha = DateTime.MinValue;
             Console.WriteLine("Git es Chido");
+            Console.WriteLine("Esta es una modificacion para ModProy2");
+            Console.WriteLine("ModProy2 " + k.ToString());
             Console.WriteLine("El valor de i es: {0}", i);
             Console.WriteLine("El valor de x es: {0:c}", x);
             Console.WriteLine("El valor de f es: {0:F2}",f);
