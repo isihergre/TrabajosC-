@@ -14,6 +14,7 @@ namespace presentacion1
             /* Este es un comentario
                 de bloque */
             Console.WriteLine("Hola Mundo");
+            Console.WriteLine("Hola mundo Git");
             Console.ReadKey();
         }
     }

@@ -19,6 +19,7 @@ namespace presentacion2
             string cadena = "Hola Mundo";
             bool bandera = false;
             DateTime fecha = DateTime.MinValue;
+            Console.WriteLine("Git es Chido");
             Console.WriteLine("El valor de i es: {0}", i);
             Console.WriteLine("El valor de x es: {0:c}", x);
             Console.WriteLine("El valor de f es: {0:F2}",f);

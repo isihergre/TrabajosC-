@@ -19,6 +19,7 @@ namespace presentacion3
             //i = (int)x;
             //i = Convert.ToInt32(x);
             i = Convert.ToInt32(cadena);
+            Console.WriteLine("Hola banda del Git");
             Console.WriteLine("El valor de i es: {0}", i);
             Console.WriteLine("El valor de x es: {0:C}", x);
             Console.WriteLine("El valor de bandera es: " + bandera.ToString());
