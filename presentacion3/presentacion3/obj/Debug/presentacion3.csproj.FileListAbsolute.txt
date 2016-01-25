@@ -1,0 +1,6 @@
+D:\C#\presentacion3\presentacion3\bin\Debug\presentacion3.exe.config
+D:\C#\presentacion3\presentacion3\bin\Debug\presentacion3.exe
+D:\C#\presentacion3\presentacion3\bin\Debug\presentacion3.pdb
+D:\C#\presentacion3\presentacion3\obj\Debug\presentacion3.csprojResolveAssemblyReference.cache
+D:\C#\presentacion3\presentacion3\obj\Debug\presentacion3.exe
+D:\C#\presentacion3\presentacion3\obj\Debug\presentacion3.pdb

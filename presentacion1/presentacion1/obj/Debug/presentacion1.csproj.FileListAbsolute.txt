@@ -1,0 +1,6 @@
+D:\C#\presentacion1\presentacion1\bin\Debug\presentacion1.exe.config
+D:\C#\presentacion1\presentacion1\obj\Debug\presentacion1.csprojResolveAssemblyReference.cache
+D:\C#\presentacion1\presentacion1\bin\Debug\presentacion1.exe
+D:\C#\presentacion1\presentacion1\bin\Debug\presentacion1.pdb
+D:\C#\presentacion1\presentacion1\obj\Debug\presentacion1.exe
+D:\C#\presentacion1\presentacion1\obj\Debug\presentacion1.pdb
